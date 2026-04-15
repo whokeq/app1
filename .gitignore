@@ -1,0 +1,10 @@
+#вещи python
+venv/
+.pylintrc
+__pycache__/
+#вещи ide
+.vscode
+.idea
+#вещи django
+db.sqlite3
+media/
